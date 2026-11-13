@@ -1,0 +1,13 @@
+# Build outputs & caches
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# Keep the compiled APK so users can download it directly from the repo!
+!TVCleaner-debug.apk
+ 
+backup/
+.wrangler/
